@@ -46,6 +46,7 @@ The Two Pointers pattern uses two index variables that move through a data struc
 | 3Sum | Medium |
 | Remove Duplicates from Sorted Array | Easy |
 | Linked List Cycle | Easy |
+| Linked List Cycle II | Medium |
 | Find the Middle of a Linked List | Easy |
 
 ## Complexity Summary

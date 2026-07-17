@@ -2,7 +2,7 @@
 
 ## Definition
 
-A tree is a connected, acyclic graph with a designated root node. Each node has zero or more child nodes. Binary trees (at most two children) are the most common variant in interviews. Trees arise naturally in hierarchical data and are the basis for many efficient data structures.
+A tree is a connected, acyclic graph with a designated root node. Each node has zero or more child nodes. Binary trees (at most two children) are the most common tree type in interviews. Trees arise naturally in hierarchical data and are the basis for many efficient data structures.
 
 ## When to Use It
 
